@@ -1,0 +1,25 @@
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+body{
+    
+    display: flex;
+    justify-content: center;
+    background-image: url("src\assets\images\web-background.jpg");
+}
+
+.bg-dark{
+    color:hsl(0,0%,83%);
+    background-color: hsl(0,0%,15%) !important;
+}
+
+
+.card {
+    margin:0 0 5px 0;
+   
+}
+.btn{
+    margin:1.5px;
+}
+.btn-edit .bi{
+    margin:1.5px;
+    color:#FFF5;
+}
